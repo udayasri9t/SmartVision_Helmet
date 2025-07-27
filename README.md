@@ -14,10 +14,10 @@ Smart Vision Helmet is an AI-based assistive device that helps visually impaired
 ## 🖼️ Preview
 
 ### Street View Detection
-![Street Detection](./SmartVision_Helmet/street_view.png)
+![Street Detection](street_view.png)
 
 ### Helmet Camera View (Indoor Test)
-![Helmet View](./SmartVision_Helmet/helmet_view.png)
+![Helmet View](helmet_view.png)
 
 ## 🛠️ Built With
 
